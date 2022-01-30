@@ -1,0 +1,1037 @@
+1) facebook.com
+
+IP Address Location Information for 31.13.67.35
+
+City: Miami
+State: Florida
+Country: United States of America
+Postal Code: 33010
+Time Zone: -05:00
+Host Info for 31.13.67.35
+
+ASN: 32934
+ISP: Facebook Ireland Ltd
+Host Name: edge-star-mini-shv-01-mia3.facebook.com
+Domain: facebook.com
+Proxy Check Info for 31.13.67.35
+
+Proxy: Yes
+SES
+
+2) bogasari.com
+
+IP Address Information about 202.158.15.72
+
+IP Address Location Information for 202.158.15.72
+
+City: Jakarta
+State: Jakarta Raya
+Country: Indonesia
+Postal Code: 12850
+Time Zone: +07:00
+Host Info for 202.158.15.72
+
+ASN: 4787
+ISP: PT Cyberindo Aditama
+Host Name: 202.158.15.72
+Domain: cbn.net.id
+Proxy Check Info for 202.158.15.72
+
+Proxy: No
+
+
+3) mayora.com
+
+Domain Name: mayora.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 18.140.101.174
+
+Geolocation: US (United States), N/A, N/A, N/A N/A - Google Maps
+
+Reverse DNS: ec2-18-140-101-174.ap-southeast-1.compute.amazonaws.com
+
+Domain Check
+
+Domain Name: mayora.com
+
+Top Level Domain: COM (Commercial TLD)
+
+Domain Name: MAYORA.COM
+Registry Domain ID: 86170486_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.domain.com
+Registrar URL: http://www.domain.com
+Updated Date: 2021-04-29T05:27:35Z
+Creation Date: 2002-05-01T23:10:11Z
+Registry Expiry Date: 2022-05-01T23:10:10Z
+Registrar: Domain.com, LLC
+Registrar IANA ID: 886
+Registrar Abuse Contact Email: compliance@domain-inc.net
+Registrar Abuse Contact Phone: 602-226-2389
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS1.DOTSTER.COM
+Name Server: NS2.DOTSTER.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2022-01-30T07:51:57Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar. Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability. VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: MAYORA.COM
+Registry Domain ID: 86170486_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.domain.com
+Registrar URL: www.domain.com
+Updated Date: 2018-03-29T02:04:16
+Creation Date: 2002-05-01T23:10:11
+Registrar Registration Expiration Date: 2022-05-01T23:10:10
+Registrar: Domain.com, LLC
+Registrar IANA ID: 886
+Reseller: Dotster.com
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID:
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: NA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: ID
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext:
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext:
+Registrant Email: https://tieredaccess.com/contact/91527370-8c05-4535-841c-b0f8bc8844dc
+Registry Admin ID:
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext:
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext:
+Admin Email: REDACTED FOR PRIVACY
+Registry Tech ID:
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext:
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext:
+Tech Email: REDACTED FOR PRIVACY
+Name Server: ns1.dotster.com
+Name Server: ns2.dotster.com
+DNSSEC: unsigned
+Registrar Abuse Contact Email: compliance@domain-inc.net
+Registrar Abuse Contact Phone: +1.6027165396
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-01-30T14:24:34Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+Registration Service Provider:
+Dotster.com, support@dotster-inc.com
++1.8004015250
+This company may be contacted for domain login/passwords,
+DNS/Nameserver changes, and general domain support questions.
+
+
+
+IP Address Check
+
+IP-Address from DNS Host Lookup: 18.140.101.174
+
+Geolocation: US (United States), N/A, N/A, N/A N/A - Google Maps
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Information related to '13.244.0.0 - 23.19.47.255'
+
+% No abuse contact registered for 13.244.0.0 - 23.19.47.255
+
+inetnum: 13.244.0.0 - 23.19.47.255
+netname: NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK
+descr: IPv4 address block not managed by the RIPE NCC
+remarks: ------------------------------------------------------
+remarks:
+remarks: For registration information,
+remarks: you can consult the following sources:
+remarks:
+remarks: IANA
+remarks: http://www.iana.org/assignments/ipv4-address-space
+remarks: http://www.iana.org/assignments/iana-ipv4-special-registry
+remarks: http://www.iana.org/assignments/ipv4-recovered-address-space
+remarks:
+remarks: AFRINIC (Africa)
+remarks: http://www.afrinic.net/ whois.afrinic.net
+remarks:
+remarks: APNIC (Asia Pacific)
+remarks: http://www.apnic.net/ whois.apnic.net
+remarks:
+remarks: ARIN (Northern America)
+remarks: http://www.arin.net/ whois.arin.net
+remarks:
+remarks: LACNIC (Latin America and the Carribean)
+remarks: http://www.lacnic.net/ whois.lacnic.net
+remarks:
+remarks: ------------------------------------------------------
+country: EU # Country is really world wide
+admin-c: IANA1-RIPE
+tech-c: IANA1-RIPE
+status: ALLOCATED UNSPECIFIED
+mnt-by: RIPE-NCC-HM-MNT
+created: 2019-01-07T10:46:13Z
+last-modified: 2019-01-07T10:46:13Z
+source: RIPE
+
+role: Internet Assigned Numbers Authority
+address: see http://www.iana.org.
+e-mail: bitbucket@ripe.net
+admin-c: IANA1-RIPE
+tech-c: IANA1-RIPE
+nic-hdl: IANA1-RIPE
+remarks: For more information on IANA services
+remarks: go to IANA web site at http://www.iana.org.
+mnt-by: RIPE-NCC-MNT
+created: 1970-01-01T00:00:00Z
+last-modified: 2001-09-22T09:31:27Z
+source: RIPE
+
+% This query was served by the RIPE Database Query Service version 1.102.2 (BLAARKOP)
+
+
+
+Domain Name: MAYORA.COM
+Registry Domain ID: 86170486_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.domain.com
+Registrar URL: http://www.domain.com
+Updated Date: 2021-04-29T05:27:35Z
+Creation Date: 2002-05-01T23:10:11Z
+Registry Expiry Date: 2022-05-01T23:10:10Z
+Registrar: Domain.com, LLC
+Registrar IANA ID: 886
+Registrar Abuse Contact Email: compliance@domain-inc.net
+Registrar Abuse Contact Phone: 602-226-2389
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS1.DOTSTER.COM
+Name Server: NS2.DOTSTER.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2022-01-30T08:15:07Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar. Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability. VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: MAYORA.COM
+Registry Domain ID: 86170486_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.domain.com
+Registrar URL: www.domain.com
+Updated Date: 2018-03-29T02:04:16
+Creation Date: 2002-05-01T23:10:11
+Registrar Registration Expiration Date: 2022-05-01T23:10:10
+Registrar: Domain.com, LLC
+Registrar IANA ID: 886
+Reseller: Dotster.com
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID:
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: NA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: ID
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext:
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext:
+Registrant Email: https://tieredaccess.com/contact/f91a97c0-7926-4c18-9d1c-02989c54932a
+Registry Admin ID:
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext:
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext:
+Admin Email: REDACTED FOR PRIVACY
+Registry Tech ID:
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext:
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext:
+Tech Email: REDACTED FOR PRIVACY
+Name Server: ns1.dotster.com
+Name Server: ns2.dotster.com
+DNSSEC: unsigned
+Registrar Abuse Contact Email: compliance@domain-inc.net
+Registrar Abuse Contact Phone: +1.6027165396
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-01-30T14:24:35Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+Registration Service Provider:
+Dotster.com, support@dotster-inc.com
++1.8004015250
+This company may be contacted for domain login/passwords,
+DNS/Nameserver changes, and general domain support questions.
+
+4) protelindo.net
+Checking Domain Name
+
+Domain Name: protelindo.net
+
+Top Level Domain: NET (Generic TLD for IT / Network oriented sites)
+
+DNS Lookup
+
+IP Address: 54.197.116.83
+
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn - Google Maps
+
+Reverse DNS: ec2-54-197-116-83.compute-1.amazonaws.com
+
+Domain Check
+
+Domain Name: protelindo.net
+
+Top Level Domain: NET (Generic TLD for IT / Network oriented sites)
+
+Domain Name: PROTELINDO.NET
+Registry Domain ID: 799098862_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.wildwestdomains.com
+Registrar URL: http://www.wildwestdomains.com
+Updated Date: 2019-11-01T01:30:59Z
+Creation Date: 2007-02-07T07:36:53Z
+Registry Expiry Date: 2024-02-07T07:36:53Z
+Registrar: Wild West Domains, LLC
+Registrar IANA ID: 440
+Registrar Abuse Contact Email: abuse@wildwestdomains.com
+Registrar Abuse Contact Phone: 480-624-2505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: KIA.NS.CLOUDFLARE.COM
+Name Server: YICHUN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2022-01-30T07:51:57Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar. Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability. VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: PROTELINDO.NET
+Registry Domain ID: 799098862_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.wildwestdomains.com
+Registrar URL: https://www.wildwestdomains.com
+Updated Date: 2019-10-31T20:30:56Z
+Creation Date: 2007-02-07T02:36:53Z
+Registrar Registration Expiration Date: 2024-02-07T02:36:53Z
+Registrar: Wild West Domains, LLC
+Registrar IANA ID: 440
+Registrar Abuse Contact Email: abuse@wildwestdomains.com
+Registrar Abuse Contact Phone: +1.4806242505
+Reseller: Cheap-Registrar
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant Organization: PT. Protelindo
+Registrant State/Province: DKI Jakarta
+Registrant Country: ID
+Registrant Email: Select Contact Domain Holder link at https://www.secureserver.net/whois?plid=1387&domain=PROTELINDO.NET
+Tech Email: Select Contact Domain Holder link at https://www.secureserver.net/whois?plid=1387&domain=PROTELINDO.NET
+Admin Email: Select Contact Domain Holder link at https://www.secureserver.net/whois?plid=1387&domain=PROTELINDO.NET
+Name Server: KIA.NS.CLOUDFLARE.COM
+Name Server: YICHUN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-01-30T14:26:29Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: The data contained in this registrar's Whois database, while believed by the
+registrar to be reliable, is provided "as is" with no guarantee or warranties regarding its
+accuracy. This information is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of this data for any other purpose
+is expressly forbidden without the prior written permission of this registrar. By submitting
+an inquiry, you agree to these terms and limitations of warranty. In particular, you agree not
+to use this data to allow, enable, or otherwise support the dissemination or collection of this
+data, in part or in its entirety, for any purpose, such as transmission by e-mail, telephone,
+postal mail, facsimile or other means of mass unsolicited, commercial advertising or solicitations
+of any kind, including spam. You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data for any purpose, including
+mining this data for your own personal or commercial purposes. Failure to comply with these terms
+may result in termination of access to the Whois database. These terms may be subject to modification
+at any time without notice.
+
+
+IP Address Check
+
+IP-Address from DNS Host Lookup: 54.197.116.83
+
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn - Google Maps
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Information related to '54.39.0.0 - 56.255.255.255'
+
+% No abuse contact registered for 54.39.0.0 - 56.255.255.255
+
+inetnum: 54.39.0.0 - 56.255.255.255
+netname: NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK
+descr: IPv4 address block not managed by the RIPE NCC
+remarks: ------------------------------------------------------
+remarks:
+remarks: For registration information,
+remarks: you can consult the following sources:
+remarks:
+remarks: IANA
+remarks: http://www.iana.org/assignments/ipv4-address-space
+remarks: http://www.iana.org/assignments/iana-ipv4-special-registry
+remarks: http://www.iana.org/assignments/ipv4-recovered-address-space
+remarks:
+remarks: AFRINIC (Africa)
+remarks: http://www.afrinic.net/ whois.afrinic.net
+remarks:
+remarks: APNIC (Asia Pacific)
+remarks: http://www.apnic.net/ whois.apnic.net
+remarks:
+remarks: ARIN (Northern America)
+remarks: http://www.arin.net/ whois.arin.net
+remarks:
+remarks: LACNIC (Latin America and the Carribean)
+remarks: http://www.lacnic.net/ whois.lacnic.net
+remarks:
+remarks: ------------------------------------------------------
+country: EU # Country is really world wide
+admin-c: IANA1-RIPE
+tech-c: IANA1-RIPE
+status: ALLOCATED UNSPECIFIED
+mnt-by: RIPE-NCC-HM-MNT
+created: 2019-01-07T10:45:51Z
+last-modified: 2019-01-07T10:45:51Z
+source: RIPE
+
+role: Internet Assigned Numbers Authority
+address: see http://www.iana.org.
+e-mail: bitbucket@ripe.net
+admin-c: IANA1-RIPE
+tech-c: IANA1-RIPE
+nic-hdl: IANA1-RIPE
+remarks: For more information on IANA services
+remarks: go to IANA web site at http://www.iana.org.
+mnt-by: RIPE-NCC-MNT
+created: 1970-01-01T00:00:00Z
+last-modified: 2001-09-22T09:31:27Z
+source: RIPE
+
+% This query was served by the RIPE Database Query Service version 1.102.2 (ANGUS)
+
+
+
+Domain Name: PROTELINDO.NET
+Registry Domain ID: 799098862_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.wildwestdomains.com
+Registrar URL: http://www.wildwestdomains.com
+Updated Date: 2019-11-01T01:30:59Z
+Creation Date: 2007-02-07T07:36:53Z
+Registry Expiry Date: 2024-02-07T07:36:53Z
+Registrar: Wild West Domains, LLC
+Registrar IANA ID: 440
+Registrar Abuse Contact Email: abuse@wildwestdomains.com
+Registrar Abuse Contact Phone: 480-624-2505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: KIA.NS.CLOUDFLARE.COM
+Name Server: YICHUN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2022-01-30T07:51:57Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar. Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability. VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: PROTELINDO.NET
+Registry Domain ID: 799098862_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.wildwestdomains.com
+Registrar URL: https://www.wildwestdomains.com
+Updated Date: 2019-10-31T20:30:56Z
+Creation Date: 2007-02-07T02:36:53Z
+Registrar Registration Expiration Date: 2024-02-07T02:36:53Z
+Registrar: Wild West Domains, LLC
+Registrar IANA ID: 440
+Registrar Abuse Contact Email: abuse@wildwestdomains.com
+Registrar Abuse Contact Phone: +1.4806242505
+Reseller: Cheap-Registrar
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant Organization: PT. Protelindo
+Registrant State/Province: DKI Jakarta
+Registrant Country: ID
+Registrant Email: Select Contact Domain Holder link at https://www.secureserver.net/whois?plid=1387&domain=PROTELINDO.NET
+Tech Email: Select Contact Domain Holder link at https://www.secureserver.net/whois?plid=1387&domain=PROTELINDO.NET
+Admin Email: Select Contact Domain Holder link at https://www.secureserver.net/whois?plid=1387&domain=PROTELINDO.NET
+Name Server: KIA.NS.CLOUDFLARE.COM
+Name Server: YICHUN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-01-30T14:26:29Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: The data contained in this registrar's Whois database, while believed by the
+registrar to be reliable, is provided "as is" with no guarantee or warranties regarding its
+accuracy. This information is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of this data for any other purpose
+is expressly forbidden without the prior written permission of this registrar. By submitting
+an inquiry, you agree to these terms and limitations of warranty. In particular, you agree not
+to use this data to allow, enable, or otherwise support the dissemination or collection of this
+data, in part or in its entirety, for any purpose, such as transmission by e-mail, telephone,
+postal mail, facsimile or other means of mass unsolicited, commercial advertising or solicitations
+of any kind, including spam. You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data for any purpose, including
+mining this data for your own personal or commercial purposes. Failure to comply with these terms
+may result in termination of access to the Whois database. These terms may be subject to modification
+at any time without notice.
+
+5) Domain Name: udemy.com
+
+Top Level Domain: COM (Commercial TLD)
+
+Domain Name: UDEMY.COM
+Registry Domain ID: 1565562579_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.safenames.net
+Registrar URL: http://www.safenames.net
+Updated Date: 2021-09-01T03:57:04Z
+Creation Date: 2009-08-13T20:37:45Z
+Registry Expiry Date: 2023-08-13T20:37:45Z
+Registrar: SafeNames Ltd.
+Registrar IANA ID: 447
+Registrar Abuse Contact Email: abuse@safenames.net
+Registrar Abuse Contact Phone: +44.1908200022
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: ANNA.NS.CLOUDFLARE.COM
+Name Server: PETE.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2022-01-30T07:54:14Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar. Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability. VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: UDEMY.COM
+Registry Domain ID: 1565562579_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.safenames.net
+Registrar URL: http://www.safenames.net
+Updated Date: 2021-09-01T04:57:04Z
+Creation Date: 2009-08-13T20:37:45Z
+Registrar Registration Expiration Date: 2023-08-13T20:37:45Z
+Registrar: Safenames Ltd
+Registrar IANA ID: 447
+Registrar Abuse Contact Email: abuse@safenames.net
+Registrar Abuse Contact Phone: +44.1908200022
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Data protected, not disclosed
+Registrant Organisation: Udemy Inc.
+Registrant Street: 600 Harrison St - 3rd Floor
+Registrant Street:
+Registrant City: San Francisco
+Registrant State/Province: CA
+Registrant Postal Code: 94107
+Registrant Country: US
+Registrant Phone: Data protected, not disclosed
+Registrant Fax: Data protected, not disclosed
+Registrant Email: daaecbekjkvl@idp.email
+Registry Admin ID: Not Available From Registry
+Admin Name: International Domain Administrator
+Admin Organisation: Safenames Ltd
+Admin Street: Safenames House, Sunrise Parkway
+Admin Street: Linford Wood
+Admin City: Milton Keynes
+Admin State/Province: Bucks
+Admin Postal Code: MK14 6LS
+Admin Country: UK
+Admin Phone: +44.1908200022
+Admin Fax: +44.1908325192
+Admin Email: hostmaster@safenames.net
+Registry Tech ID: Not Available From Registry
+Tech Name: International Domain Tech
+Tech Organisation: Safenames Ltd
+Tech Street: Safenames House, Sunrise Parkway
+Tech Street: Linford Wood
+Tech City: Milton Keynes
+Tech State/Province: Bucks
+Tech Postal Code: MK14 6LS
+Tech Country: UK
+Tech Phone: +44.1908200022
+Tech Fax: +44.1908325192
+Tech Email: hostmaster@safenames.net
+Name Server: anna.ns.cloudflare.com
+Name Server: pete.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2021-09-01T04:57:04Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+Safenames - Experts in Global Domain Management and Online Brand Protection
+
+Domain Registration in over 760 different extensions
+Enterprise Domain Management since 1999
+Mark Protect™ Online Brand Monitoring and Enforcement
+Domain Consulting and Strategy
+Domain Name Acquisition
+Domain Disputes and Recovery
+
+Visit Safenames at www.safenames.net
++1 703 574 5313 in the US/Canada
++44 1908 200022 in Europe
+
+The Data in the Safenames Registrar WHOIS database is provided by Safenames for
+information purposes only, and to assist persons in obtaining information about
+or related to a domain name registration record. Safenames does not guarantee
+its accuracy. Additionally, the data may not reflect updates to billing
+contact information.
+
+By submitting a WHOIS query, you agree to use this Data only for lawful purposes
+and that under no circumstances will you use this Data to:
+
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via e-mail, telephone, or facsimile; or
+(2) enable high volume, automated, electronic processes that apply to Safenames
+(or its computer systems). The compilation, repackaging, dissemination or
+other use of this Data is expressly prohibited without the prior written
+consent of Safenames. Safenames reserves the right to terminate your access to
+the Safenames Registrar WHOIS database in its sole discretion, including
+without limitation, for excessive querying of the WHOIS database or for failure
+to otherwise abide by this policy. Safenames reserves the right to modify
+these terms at any time. By submitting this query, you agree to abide by this
+policy.
+
+
+
+
+IP Address Check
+
+IP-Address from DNS Host Lookup: 104.16.66.85
+
+Geolocation: US (United States), N/A, N/A, N/A N/A - Google Maps
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Information related to '103.252.92.0 - 104.37.31.255'
+
+% No abuse contact registered for 103.252.92.0 - 104.37.31.255
+
+inetnum: 103.252.92.0 - 104.37.31.255
+netname: NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK
+descr: IPv4 address block not managed by the RIPE NCC
+remarks: ------------------------------------------------------
+remarks:
+remarks: For registration information,
+remarks: you can consult the following sources:
+remarks:
+remarks: IANA
+remarks: http://www.iana.org/assignments/ipv4-address-space
+remarks: http://www.iana.org/assignments/iana-ipv4-special-registry
+remarks: http://www.iana.org/assignments/ipv4-recovered-address-space
+remarks:
+remarks: AFRINIC (Africa)
+remarks: http://www.afrinic.net/ whois.afrinic.net
+remarks:
+remarks: APNIC (Asia Pacific)
+remarks: http://www.apnic.net/ whois.apnic.net
+remarks:
+remarks: ARIN (Northern America)
+remarks: http://www.arin.net/ whois.arin.net
+remarks:
+remarks: LACNIC (Latin America and the Carribean)
+remarks: http://www.lacnic.net/ whois.lacnic.net
+remarks:
+remarks: ------------------------------------------------------
+country: EU # Country is really world wide
+admin-c: IANA1-RIPE
+tech-c: IANA1-RIPE
+status: ALLOCATED UNSPECIFIED
+mnt-by: RIPE-NCC-HM-MNT
+created: 2019-02-04T15:28:58Z
+last-modified: 2019-02-04T15:28:58Z
+source: RIPE
+
+role: Internet Assigned Numbers Authority
+address: see http://www.iana.org.
+e-mail: bitbucket@ripe.net
+admin-c: IANA1-RIPE
+tech-c: IANA1-RIPE
+nic-hdl: IANA1-RIPE
+remarks: For more information on IANA services
+remarks: go to IANA web site at http://www.iana.org.
+mnt-by: RIPE-NCC-MNT
+created: 1970-01-01T00:00:00Z
+last-modified: 2001-09-22T09:31:27Z
+source: RIPE
+
+% This query was served by the RIPE Database Query Service version 1.102.2 (BLAARKOP)
+
+
+
+Domain Name: UDEMY.COM
+Registry Domain ID: 1565562579_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.safenames.net
+Registrar URL: http://www.safenames.net
+Updated Date: 2021-09-01T03:57:04Z
+Creation Date: 2009-08-13T20:37:45Z
+Registry Expiry Date: 2023-08-13T20:37:45Z
+Registrar: SafeNames Ltd.
+Registrar IANA ID: 447
+Registrar Abuse Contact Email: abuse@safenames.net
+Registrar Abuse Contact Phone: +44.1908200022
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: ANNA.NS.CLOUDFLARE.COM
+Name Server: PETE.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2022-01-30T07:54:14Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar. Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability. VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: UDEMY.COM
+Registry Domain ID: 1565562579_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.safenames.net
+Registrar URL: http://www.safenames.net
+Updated Date: 2021-09-01T04:57:04Z
+Creation Date: 2009-08-13T20:37:45Z
+Registrar Registration Expiration Date: 2023-08-13T20:37:45Z
+Registrar: Safenames Ltd
+Registrar IANA ID: 447
+Registrar Abuse Contact Email: abuse@safenames.net
+Registrar Abuse Contact Phone: +44.1908200022
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Data protected, not disclosed
+Registrant Organisation: Udemy Inc.
+Registrant Street: 600 Harrison St - 3rd Floor
+Registrant Street:
+Registrant City: San Francisco
+Registrant State/Province: CA
+Registrant Postal Code: 94107
+Registrant Country: US
+Registrant Phone: Data protected, not disclosed
+Registrant Fax: Data protected, not disclosed
+Registrant Email: daaecbekjkvl@idp.email
+Registry Admin ID: Not Available From Registry
+Admin Name: International Domain Administrator
+Admin Organisation: Safenames Ltd
+Admin Street: Safenames House, Sunrise Parkway
+Admin Street: Linford Wood
+Admin City: Milton Keynes
+Admin State/Province: Bucks
+Admin Postal Code: MK14 6LS
+Admin Country: UK
+Admin Phone: +44.1908200022
+Admin Fax: +44.1908325192
+Admin Email: hostmaster@safenames.net
+Registry Tech ID: Not Available From Registry
+Tech Name: International Domain Tech
+Tech Organisation: Safenames Ltd
+Tech Street: Safenames House, Sunrise Parkway
+Tech Street: Linford Wood
+Tech City: Milton Keynes
+Tech State/Province: Bucks
+Tech Postal Code: MK14 6LS
+Tech Country: UK
+Tech Phone: +44.1908200022
+Tech Fax: +44.1908325192
+Tech Email: hostmaster@safenames.net
+Name Server: anna.ns.cloudflare.com
+Name Server: pete.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2021-09-01T04:57:04Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+Safenames - Experts in Global Domain Management and Online Brand Protection
+
+Domain Registration in over 760 different extensions
+Enterprise Domain Management since 1999
+Mark Protect™ Online Brand Monitoring and Enforcement
+Domain Consulting and Strategy
+Domain Name Acquisition
+Domain Disputes and Recovery
+
+Visit Safenames at www.safenames.net
++1 703 574 5313 in the US/Canada
++44 1908 200022 in Europe
+
+The Data in the Safenames Registrar WHOIS database is provided by Safenames for
+information purposes only, and to assist persons in obtaining information about
+or related to a domain name registration record. Safenames does not guarantee
+its accuracy. Additionally, the data may not reflect updates to billing
+contact information.
+
+By submitting a WHOIS query, you agree to use this Data only for lawful purposes
+and that under no circumstances will you use this Data to:
+
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via e-mail, telephone, or facsimile; or
+(2) enable high volume, automated, electronic processes that apply to Safenames
+(or its computer systems). The compilation, repackaging, dissemination or
+other use of this Data is expressly prohibited without the prior written
+consent of Safenames. Safenames reserves the right to terminate your access to
+the Safenames Registrar WHOIS database in its sole discretion, including
+without limitation, for excessive querying of the WHOIS database or for failure
+to otherwise abide by this policy. Safenames reserves the right to modify
+these terms at any time. By submitting this query, you agree to abide by this
+policy.
+
+
+
+
+

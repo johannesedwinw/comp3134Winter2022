@@ -1,0 +1,352 @@
+1) TOKOPEDIA
+
+Domain Name: TOKOPEDIA.COM
+Registry Domain ID: 1483073799_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2018-05-05T22:03:46Z
+Creation Date: 2008-05-30T00:05:11Z
+Registrar Registration Expiration Date: 2027-05-30T00:05:11Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: email@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant Organization: PT. Tokopedia
+Registrant State/Province: DKI Jakarta
+Registrant Country: ID
+Registrant Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=TOKOPEDIA.COM
+Tech Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=TOKOPEDIA.COM
+Admin Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=TOKOPEDIA.COM
+Name Server: NS-869.AWSDNS-44.NET
+Name Server: NS-1959.AWSDNS-52.CO.UK
+Name Server: NS-491.AWSDNS-61.COM
+Name Server: NS-1184.AWSDNS-20.ORG
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-01-22T17:22:44Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: The data contained in this registrar's Whois database, while believed by the
+registrar to be reliable, is provided "as is" with no guarantee or warranties regarding its
+accuracy. This information is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of this data for any other purpose
+is expressly forbidden without the prior written permission of this registrar. By submitting
+an inquiry, you agree to these terms and limitations of warranty. In particular, you agree not
+to use this data to allow, enable, or otherwise support the dissemination or collection of this
+data, in part or in its entirety, for any purpose, such as transmission by e-mail, telephone,
+postal mail, facsimile or other means of mass unsolicited, commercial advertising or solicitations
+of any kind, including spam. You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data for any purpose, including
+mining this data for your own personal or commercial purposes. Failure to comply with these terms
+may result in termination of access to the Whois database. These terms may be subject to modification
+at any time without notice.
+
+2) GeorgeBrown
+
+georgebrown.com
+whois information
+  cache expires in 23 hours, 59 minutes and 59 seconds
+Registrar Info
+NameNetwork Solutions, LLC
+Whois Serverwhois.networksolutions.com
+Referral URLhttp://networksolutions.com
+StatusclientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Important Dates
+Expires On2026-01-10
+Registered On1998-01-11
+Updated On2020-11-28
+Name Servers
+NS41.WORLDNIC.COM162.159.26.111
+NS42.WORLDNIC.COM162.159.27.50
+Similar Domains
+georg--breitwieser.com | georg-abele.ch | georg-abele.de | georg-abrell.de | georg-academy.com | georg-ackermann-schule.de | georg-ager.at | georg-agricola-gesellschaft.de | georg-agricola.com | georg-ahrens.de | georg-aigner.at | georg-aigner.com | georg-alber.de | georg-albrecht-eckle.com | georg-alexander-hansen.de | georg-alexander.com | georg-alexander.de | georg-alexi.us.com | georg-amshoff.de | georg-andalusier.de |
+Registrar DataWe will display stored WHOIS data for up to 30 days.
+
+Registrant Contact Information:
+NamePERFECT PRIVACY, LLC
+Organization
+Address5335 Gate Parkway care of Network Solutions PO Box 459
+CityJacksonville
+State / ProvinceFL
+Postal Code32256
+CountryUS
+Phone+1.5707088780
+Email
+
+Administrative Contact Information:
+NamePERFECT PRIVACY, LLC
+Organization
+Address5335 Gate Parkway care of Network Solutions PO Box 459
+CityJacksonville
+State / ProvinceFL
+Postal Code32256
+CountryUS
+Phone+1.5707088780
+Email
+
+Technical Contact Information:
+NamePERFECT PRIVACY, LLC
+Organization
+Address5335 Gate Parkway care of Network Solutions PO Box 459
+CityJacksonville
+State / ProvinceFL
+Postal Code32256
+CountryUS
+Phone+1.5707088780
+Email
+
+3) Yahoo
+
+yahoo.com
+whois information
+  cache expires in and 0 seconds
+ refresh
+Registrar Info
+NameMarkMonitor, Inc.
+Whois Serverwhois.markmonitor.com
+Referral URLhttp://www.markmonitor.com
+StatusclientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Important Dates
+Expires On2023-01-19
+Registered On1995-01-18
+Updated On2021-12-17
+Name Servers
+ns1.yahoo.com68.180.131.16
+ns2.yahoo.com68.142.255.16
+ns3.yahoo.com27.123.42.42
+ns4.yahoo.com98.138.11.157
+ns5.yahoo.com202.165.97.53
+Similar Domains
+yahoo----.de | yahoo---.com | yahoo---messenger.com | yahoo---moiprogrammy.com | yahoo--.org | yahoo--auction.com | yahoo--error.com | yahoo--espanol.com | yahoo--fantasy--football.com | yahoo--finance.com | yahoo--google.com | yahoo--google.info | yahoo--hot-jobs.com | yahoo--inc.com | yahoo--invisible.com | yahoo--mail.com | yahoo--search--engine.com | yahoo--status.com | yahoo--store.com | yahoo--sucks.com |
+Registrar DataWe will display stored WHOIS data for up to 30 days.
+ refresh
+
+Domain Name: yahoo.com
+Registry Domain ID: 3643624_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2021-12-17T00:12:57+0000
+Creation Date: 1995-01-18T08:00:00+0000
+Registrar Registration Expiration Date: 2023-01-19T05:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Yahoo Assets LLC
+Registrant State/Province: VA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/yahoo.com
+Admin Organization: Yahoo Assets LLC
+Admin State/Province: VA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/yahoo.com
+Tech Organization: Yahoo Assets LLC
+Tech State/Province: VA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/yahoo.com
+Name Server: ns5.yahoo.com
+Name Server: ns2.yahoo.com
+Name Server: ns4.yahoo.com
+Name Server: ns3.yahoo.com
+Name Server: ns1.yahoo.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-01-24T06:04:18+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to 
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+
+4) Buka Lapak
+
+bukalapak.com
+whois information
+  cache expires in 23 hours, 23 minutes and 46 seconds
+ refresh
+Registrar Info
+NameAmazon Registrar, Inc.
+Whois Serverwhois.registrar.amazon.com
+Referral URLhttps://registrar.amazon.com
+StatusclientTransferProhibited https://icann.org/epp#clientTransferProhibited
+ok https://icann.org/epp#ok
+transferPeriod https://icann.org/epp#transferPeriod
+Important Dates
+Expires On2027-09-10
+Registered On2009-09-10
+Updated On2022-01-11
+Name Servers
+ns-1492.awsdns-58.org205.251.197.212
+ns-1890.awsdns-44.co.uk205.251.199.98
+ns-4.awsdns-00.com205.251.192.4
+ns-979.awsdns-58.net205.251.195.211
+Similar Domains
+bukal.ca | bukal.com | bukal.de | bukal.ink | bukal.net | bukal.org | bukal.pl | bukala-art.com | bukala.cn | bukala.com | bukala.com.pl | bukala.ir | bukala.net | bukala.org | bukala.pl | bukala.ru | bukala0ak.com | bukala0pak.com | bukala24.pl | bukalaaak.com |
+Registrar DataWe will display stored WHOIS data for up to 30 days.
+ refresh
+
+Registrant Contact Information:
+Namebukalapak domains
+Organizationbukalapak.com
+AddressMetropolitan Tower 22nd Floor, Jl. R.A.Kartini No.Kav. 14, RT.10/RW.4, West Cilandak, Cilandak, South Jakarta City, Jakarta 12430
+CityJakarta
+Postal Code12430
+CountryID
+Phone+62.2150813333
+Email
+
+Administrative Contact Information:
+Namebukalapak domains
+Organizationbukalapak.com
+AddressMetropolitan Tower 22nd Floor, Jl. R.A.Kartini No.Kav. 14, RT.10/RW.4, West Cilandak, Cilandak, South Jakarta City, Jakarta 12430
+CityJakarta
+Postal Code12430
+CountryID
+Phone+62.2150813333
+Email
+
+Technical Contact Information:
+Namebukalapak domains
+Organizationbukalapak.com
+AddressMetropolitan Tower 22nd Floor, Jl. R.A.Kartini No.Kav. 14, RT.10/RW.4, West Cilandak, Cilandak, South Jakarta City, Jakarta 12430
+CityJakarta
+Postal Code12430
+CountryID
+Phone+62.2150813333
+Email
+
+5) bli bli
+
+blibli.com
+whois information
+  cache expires in 23 hours, 59 minutes and 58 seconds
+Registrar Info
+NameNamescout.com
+Whois Serverwhois.Namescout.com
+Referral URLhttp://www.Namescout.com
+Status
+CLIENT_TRANSFER_PROHIBITED https://www.icann.org/epp#ClientTransferProhibited
+CLIENT_UPDATE_PROHIBITED https://www.icann.org/epp#ClientUpdateProhibited
+Important Dates
+Expires On2029-11-29
+Registered On2007-11-29
+Updated On2020-09-29
+Name Servers
+ns-1084.awsdns-07.org205.251.196.60
+ns-2037.awsdns-62.co.uk205.251.199.245
+ns-284.awsdns-35.com205.251.193.28
+ns-741.awsdns-28.net205.251.194.229
+Similar Domains
+blibl.co.uk | blibl.com | blibl.io | blibl1.com | blibla.com | blibla.de | blibla.net | blibla.se | blibla4u.com | bliblab.com | bliblablo-la-cote.ch | bliblablo.ch | bliblablo.com | bliblablog.de | bliblablog.net | bliblablu.com | bliblablub.com | bliblablub.de | bliblablub.info | bliblablubb.net |
+Registrar DataWe will display stored WHOIS data for up to 30 days.
+
+Registrant Contact Information:
+NameREDACTED FOR PRIVACY
+OrganizationPT GLOBAL DIGITAL NIAGA
+AddressREDACTED FOR PRIVACY
+CityREDACTED FOR PRIVACY
+State / ProvinceJawa Tengah
+Postal CodeREDACTED FOR PRIVACY
+CountryID
+PhoneREDACTED FOR PRIVACY
+FaxREDACTED FOR PRIVACY
+Email
+
+Administrative Contact Information:
+NameREDACTED FOR PRIVACY
+OrganizationPT GLOBAL DIGITAL NIAGA
+AddressREDACTED FOR PRIVACY
+CityREDACTED FOR PRIVACY
+State / ProvinceJawa Tengah
+Postal CodeREDACTED FOR PRIVACY
+CountryID
+PhoneREDACTED FOR PRIVACY
+FaxREDACTED FOR PRIVACY
+Email
+
+Technical Contact Information:
+NameREDACTED FOR PRIVACY
+OrganizationPT GLOBAL DIGITAL NIAGA
+AddressREDACTED FOR PRIVACY
+CityREDACTED FOR PRIVACY
+State / ProvinceJawa Tengah
+Postal CodeREDACTED FOR PRIVACY
+CountryID
+PhoneREDACTED FOR PRIVACY
+FaxREDACTED FOR PRIVACY
+Email
+
+Information Updated: 2022-01-30 14:19:51
+Use promo code WHOIS to save 15% on your first Name.com order.
+
+
+
+
+Site Status
+Status
+Active
+Server Type
+BigIP
+Suggested Domains for blibli.com
+ bliblis.live$2.99
+ newblibli.com$9.99
+ allblibli.com$9.99
+ oneblibli.com$9.99
+ funblibli.com$9.99
+Use promo code WHOIS to save 15% on your first Name.com order.
+
+
+
+

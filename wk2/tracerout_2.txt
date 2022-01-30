@@ -1,0 +1,22 @@
+C:\Users\16473>tracert 68.183.194.51
+
+Tracing route to 68.183.194.51 over a maximum of 30 hops
+
+  1     1 ms    <1 ms    <1 ms  mynetwork [192.168.2.1]
+  2     3 ms     6 ms    11 ms  10.11.2.233
+  3     *        *        *     Request timed out.
+  4     3 ms     3 ms     4 ms  cr01-toroon4765w_0/2/0/4_11.net.bell.ca [142.124.127.68]
+  5     5 ms     7 ms     5 ms  tcore3-toronto47-bundle-ether48.net.bell.ca [142.124.127.152]
+  6     *        *        *     Request timed out.
+  7     2 ms     3 ms     2 ms  bx1-torontoxn_et1-0-0.net.bell.ca [64.230.97.157]
+  8     3 ms     4 ms     2 ms  ix-ae-9-0.tcore2.tnk-toronto.as6453.net [63.243.172.25]
+  9     2 ms     2 ms     2 ms  if-ae-2-2.tcore1.tnk-toronto.as6453.net [64.86.33.89]
+ 10     4 ms     3 ms     3 ms  64.86.33.54
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     4 ms     3 ms     3 ms  68.183.194.51
+
+Trace complete.
+
+C:\Users\16473>
