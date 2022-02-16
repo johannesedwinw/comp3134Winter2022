@@ -1,0 +1,35 @@
+clear
+
+
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# tcpdump -XX -i eth0
+
+
+
+
+
+        0xd0d0:  bb22 9fc5 5bae 5878 b125 d023 7045 22d6  ."..[.Xx.%.#pE".
+        0xd0e0:  7442 3b19 77bd 681e d343 565f 0185 a56c  tB;.w.h..CV_...l
+        0xd0f0:  d568 7353 ddf2 5328 3ab5 ecc3 519c d0ed  .hsS..S(:...Q...
+        0xd100:  c117 1435 65f3 b611 0bbf 3927 3559 ae44  ...5e.....9'5Y.D
+        0xd110:  4223 f22a 68c7 4d1a 7313 ab53 a891 7703  B#.*h.M.s..S..w.
+        0xd120:  ef5e 2564 f741 66f9 8f80 d87b 2b2e 9f4f  .^%d.Af....{+..O
+        0xd130:  ca9d 5cb9 8b3f 5a86 c412 9621 6f46 655f  ..\..?Z....!oFe_
+        0xd140:  eb34 e26c 8756 f6b9 f45a 237d 9e6f 6a0e  .4.l.V...Z#}.oj.
+        0xd150:  d135 835e da41 ef70 0a5a cc8c 5317 6345  .5.^.A.p.Z..S.cE
+        0xd160:  3258 5116 9b55 8e98 fb7e 97a5 1fcd ec5d  2XQ..U...~.....]
+        0xd170:  b0a1 9331 6079 76c4 58cc a782 fa12 cd78  ...1`yv.X......x
+        0xd180:  355c 17c7 316e af06 16cd 8058 bc6a b187  5\..1n.....X.j..
+        0xd190:  4f0b b313 72a2 00a3 acdd 8c62 05a2 28fa  O...r......b..(.
+        0xd1a0:  60e9 6f71 4717 f53f a4d8 7247 051a 1c45  `.oqG..?..rG...E
+        0xd1b0:  1d9a f57d 2844 9415 cffa 5912 07a8 3206  ...}(D....Y...2.
+        0xd1c0:  7093 4fd1 01c5 5ae1 71ee 8542 dd94 7691  p.O...Z.q..B..v.
+        0xd1d0:  1b51 69eb d2f7 77a0 ccbd ac70 6887 962b  .Qi...w....ph..+
+        0xd1e0:  dee5 a8da 5cbc cbcd c510 042d d9ed 11b9  ....\......-....
+        0xd1f0:  47c9 2b08 70b2 df5c 2fca 6fdd dc87 9064  G.+.p..\/.o....d
+        0xd200:  d253 8225 bd73 f590 f1ca db5c 8b61 e7d7  .S.%.s.....\.a..
+        0xd210:  e47d                                     .}
+
+247 packets captured
+2902 packets received by filter
+2624 packets dropped by kernel
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#

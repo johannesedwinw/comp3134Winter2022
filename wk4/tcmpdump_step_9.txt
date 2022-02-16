@@ -1,0 +1,31 @@
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# tcpdump -i eth0 tcp
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+18:43:14.173918 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 695763172:695763280, ack 3974887011, win 501, length 108
+18:43:14.173987 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 108:252, ack 1, win 501, length 144
+18:43:14.174059 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 252:288, ack 1, win 501, length 36
+18:43:14.176681 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 288:532, ack 1, win 501, length 244
+18:43:14.176750 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 532:788, ack 1, win 501, length 256
+18:43:14.176821 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 788:1080, ack 1, win 501, length 292
+18:43:14.176995 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1080:1300, ack 1, win 501, length 220
+18:43:14.177049 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1300:1556, ack 1, win 501, length 256
+18:43:14.177121 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1556:1812, ack 1, win 501, length 256
+18:43:14.177950 IP bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841 > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh: Flags [.], ack 108, win 513, length 0
+18:43:14.177951 IP bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841 > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh: Flags [.], ack 288, win 513, length 0
+18:43:14.177975 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1812:2640, ack 1, win 501, length 828
+18:43:14.178049 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 2640:2852, ack 1, win 501, length 212
+18:43:14.178084 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-1clear
+
+
+
+18:41:54.271453 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1534792:1535064, ack 685, win 501, length 272
+18:41:54.271506 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1535064:1535336, ack 685, win 501, length 272
+18:41:54.271619 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1535336:1535608, ack 685, win 501, length 272
+18:41:54.271675 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1535608:1535880, ack 685, win 501, length 272
+18:41:54.271734 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1535880:1536152, ack 685, win 501, length 272
+18:41:54.271781 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1536152:1536424, ack 685, win 501, length 272
+^C
+6339 packets captured
+6454 packets received by filter
+107 packets dropped by kernel
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#

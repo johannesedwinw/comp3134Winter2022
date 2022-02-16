@@ -1,0 +1,38 @@
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# tcpdump -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+18:27:32.590826 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 655167892:655168000, ack 3974858207, win 501, length 108
+18:27:32.590877 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 108:252, ack 1, win 501, length 144
+18:27:32.591062 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 252:288, ack 1, win 501, length 36
+18:27:32.592071 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.55762 > 67.207.67.3.domain: 41721+ [1au] PTR? 226.139.113.142.in-addr.arpa. (57)
+18:27:32.592397 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.51822 > 67.207.67.3.domain: 18168+ [1au] PTR? 226.139.113.142.in-addr.arpa. (57)
+18:27:32.592988 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.41799 > 67.207.67.3.domain: 13815+ [1au] PTR? 51.194.183.68.in-addr.arpa. (55)
+18:27:32.593127 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.58418 > 67.207.67.3.domain: 44247+ [1au] PTR? 51.194.183.68.in-addr.arpa. (55)
+18:27:32.593187 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.59855 > 67.207.67.3.domain: 41770+ [1au] PTR? 51.194.183.68.in-addr.arpa. (55)
+18:27:32.593342 IP 67.207.67.3.domain > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.51822: 18168 1/0/1 PTR bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca. (129)
+18:27:32.593360 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01 > 67.207.67.3: ICMP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01 udp port 51822 unreachable, length 165
+18:27:32.593503 IP 67.207.67.3.domain > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.41799: 13815 NXDomain 0/1/1 (122)
+18:27:32.593503 IP 67.207.67.3.domain > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.55762: 41721 1/0/1 PTR bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca. (129)
+18:27:32.593503 IP bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841 > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh: Flags [.], ack 108, win 513, length 0
+18:27:32.593544 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01 > 67.207.67.3: ICMP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01 udp port 55762 unreachable, length 165
+18:27:32.593573 IP 67.207.67.3.domain > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.58418: 44247 NXDomain 0/1/1 (122)
+18:27:32.593683 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.41799 > 67.207.67.3.domain: 13815+ PTR? 51.194.183.68.in-addr.arpa. (44)
+
+
+
+
+1: Flags [P.], seq 745080:745344, ack 361, win 501, length 264
+18:27:32.818694 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 745344:745608, ack 361, win 501, length 264
+18:27:32.818776 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 745608:745872, ack 361, win 501, length 264
+18:27:32.818860 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 745872:746136, ack 361, win 501, length 264
+18:27:32.818942 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 746136:746400, ack 361, win 501, length 264
+18:27:32.819081 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 746400:746664, ack 361, win 501, length 264
+18:27:32.819165 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 746664:746928, ack 361, win 501, length 264
+18:27:32.819251 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 746928:747192, ack 361, win 501, length 264
+18:27:32.819308 IP bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841 > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh: Flags [.], ack 724308, win 516, length 0
+^C
+3197 packets captured
+3221 packets received by filter
+5 packets dropped by kernel
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# tcpdump -i eth0tcpdump -i eth0^C
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#

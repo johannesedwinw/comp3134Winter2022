@@ -1,0 +1,34 @@
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# tcpdump -A -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+18:31:00.756952 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 660372860:660372896, ack 3974862963, win 501, length 36
+E..L..@.@.pcD..3.q.....1'\}|...sP...!}..|../&'...w.....;.P...6.s.....(.+.d..
+18:31:00.758907 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 36:144, ack 1, win 501, length 108
+E.....@.@.p.D..3.q.....1'\}....sP...!....K=...F|..*...K..i...{.s.Lip.....PA.q"...$K.:$..e.....`{Xv.B+.Im.mw.\..~...NYpx
+f..0fC....R....!...S....!...
+18:31:00.758970 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 144:288, ack 1, win 501, length 144
+E.....@.@.o.D..3.q.....1'\~....sP...!...D.B...84.%......S`].u/....'6.....y.c...)$52..#....."j7.......W.\W...|ot .._...  ....E...........hH..L...@..J...I..U..%8...h.(1 .......1.......R.Y
+18:31:00.759181 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 288:324, ack 1, win 501, length 36
+E..L..@.@.p`D..3.q.....1'\~....sP...!}..#.SuR]/...eQ...VA......{q.h(.D.Vp.w6
+18:31:00.759684 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.50009 > 67.207.67.3.domain: 24547+ [1au] PTR? 226.139.113.142.in-addr.arpa. (57)
+E..U.#@.@...D..3C.C..Y.5.A.._............226.139.113.142.in-addr.arpa.......)........
+18:31:00.759734 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.38153 > 67.207.67.3.domain: 14733+ [1au] PTR? 226.139.113.142.in-addr.arpa. (57)
+E..U.$@.@...D..3C.C..   .5.A..9............226.139.113.142.in-addr.arpa.......)........
+18:31:00.760132 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.59682 > 67.207.67.3.domain: 16649+ [1au] PTR? 51.194.183.68.in-addr.arpa. (55)
+E..S.%@.@...D..3C.C..".5.?..A   ...........51.194.183.68.in-addr.arpa.......)........
+18:31:00.760182 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.34979 > 67.207.67.3.domain: 15099+ [1au] PTR? 51.194.183.68.in-addr.arpa. (55)
+E..S.&@.@...D..3C.C....5.?..:............51.194.183.68.in-addr.arpa.......)........
+18:31:00.760226 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.36252 > 67.207.67.3.domain: 37303+ [1au] PTR? 51.194.183.68.in-addr.arpa. (55)
+E..S.'@.@...D..3C.C....5.?...............51.194.183.68.in-addr.arpa....
+
+
+
+.$...h.+ .p.GH...jS.[...4='..<...^.....&..V."..?:(Tqd?...p......:Ce..0.*(/.3.........z.j..S.~x.:.?..........i2"....l.U.....U....o.D.&="..QPU>(......l.Xc...Ux|..Q0.9.@m.....N_.K....#......H.....Y...M....k.g......z0..../.H..q.....       qN;..../^.....KG..\....... ..Gg.p.]v._....=.s.9.v{8...Xhw7...\ ...J.8~^...n.|.bmm%..f....{=....'-H........"b.1Q;...o'..;z..).|.Xd.q
+....q.].=....o...?.#u.,.G..0+....c....6 G7...8.........o.=. G...T..vqq......e2.bE.)....=..M.%.....,^.Y...W...YD.V*"..#&R..'....5..8.F......=......... N.J..60...s.....!.}...N.a...;`....   .=....h..<.4..`..Th..<....H.....p.rzNRy..w.2.u.....AZJ.4.3....K..=).Q.R.W(..W.[{.x...Y.[.].E....nB..>wo.+..x.D.9A...6hLA..Z@.......N.K[....0..n;.u2..86..I....Q.m[M=.k.J..1._.r<...]BgS|.1..Y.}HI...N....).....?.\.JJ..4.H..L....{...`....[.=38..Y..+..#u.?.Qw.....^.C..C.....<...Q.3T.....Mk...$.u6. .Mq(0$.q<...<.P..M)..P.&.-."..1Dx..H...\...d..b.|..R...@Q...!.E.6...(..bn..Nb.W..sE..3O..$.l.c.....uH./i..........^.O.q.L./...0.B.:.j......y.v.......$..I%..h}.O.S.....<7....s..Z.....%..,TJ.......h1.,JKq....a.e.k.!....)<......w.Bc.]....&8:(...T...(...^...[.E?... .~...].PK.lX\............>)....f..H.)1.~,....c[..oD.B....@9......e.#~..,...y..*Jt\..NJ.......+..`......$...E...w........r.V.FJ.........d....3...,x/Y.v....P*...c..K.....#......0k..M.}{.&)1...y.:..%...T.I.s..@...R?..a?..9.|....`...........aF.j     ...I..6...mX....c.%...(JD.Qz.....&.<    .a.......h..HP.]........S..^..Z:V
+j..$...EI.q.........._<ks.....V.......6~.. .n..l...Q..]...|....9........vD...C...?....[fQmu.b   ...lX..C..)..{..:..|.A.].<.......5S./.U1x5WkC......o.B.M."...qY...b...DZ{...L...._ .F %.{.*1...h......+....#$088cb.].w..?...^.Q..1....O.............z..W.V(a...U/....
+.....r.....<PF$F.i.Cw.p..X..m.`o;...]].J.....n..a.3>...R`.......X.b..@...7.?jL.......w+.M'}P........#...}......L..Q+...".fNg
+
+1229 packets captured
+3942 packets received by filter
+2682 packets dropped by kernel
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#

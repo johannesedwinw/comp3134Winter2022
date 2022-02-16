@@ -1,0 +1,35 @@
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# tcpdump -i eth0 port 22
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+18:44:21.987189 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 698771192:698771300, ack 3974889391, win 501, length 108
+18:44:21.987233 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 108:252, ack 1, win 501, length 144
+18:44:21.987344 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 252:288, ack 1, win 501, length 36
+18:44:21.989995 IP bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841 > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh: Flags [.], ack 108, win 513, length 0
+18:44:21.989995 IP bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841 > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh: Flags [.], ack 288, win 513, length 0
+18:44:21.990373 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 288:532, ack 1, win 501, length 244
+18:44:21.990422 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 532:788, ack 1, win 501, length 256
+18:44:21.990509 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 788:1576, ack 1, win 501, length 788
+18:44:21.990594 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1576:2344, ack 1, win 501, length 768
+18:44:21.990674 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 2344:2608, ack 1, win 501, length 264
+18:44:21.990747 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 2608:2872, ack 1, win 501, length 264
+18:44:21.990906 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 2872:3136, ack 1, win 501, length 264
+18:44:21.990994 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 3136:3400, ack 1, win 501, length 264
+18:44:21.991078 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 3400:3664, ack 1, win 501, length 264
+18:44:21.991159 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01
+
+
+18:44:22.261725 IP bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841 > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh: Flags [.], ack 1100852, win 14, length 0
+18:44:22.261725 IP bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841 > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh: Flags [.], ack 1101372, win 12, length 0
+18:44:22.261966 IP bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841 > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh: Flags [.], ack 1103096, win 6, length 0
+18:44:22.263248 IP bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841 > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh: Flags [.], ack 1103132, win 5, options [nop,nop,sack 1 {1104584:1104592}], length 0
+18:44:22.263605 IP bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841 > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh: Flags [.], ack 1104592, win 0, length 0
+18:44:22.267766 IP bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841 > lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh: Flags [.], ack 1104592, win 516, length 0
+18:44:22.267803 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1104592:1108752, ack 361, win 501, length 4160
+18:44:22.267979 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1108752:1109272, ack 361, win 501, length 520
+18:44:22.268087 IP lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01.ssh > bras-vprn-toroon4834w-lp130-03-142-113-139-226.dsl.bell.ca.33841: Flags [P.], seq 1109272:1109544, ack 361, win 501, length 272
+^C
+4636 packets captured
+4677 packets received by filter
+38 packets dropped by kernel
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# ^C
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#

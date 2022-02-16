@@ -1,0 +1,7 @@
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# apt-get install tcpdump
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+tcpdump is already the newest version (4.9.3-4).
+0 upgraded, 0 newly installed, 0 to remove and 75 not upgraded.
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#
