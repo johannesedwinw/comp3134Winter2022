@@ -1,0 +1,411 @@
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# iptables -L -v
+Chain INPUT (policy DROP 23 packets, 941 bytes)
+ pkts bytes target     prot opt in     out     source               destination
+ 179K   30M f2b-sshd   tcp  --  any    any     anywhere             anywhere             multiport dports ssh
+ 441K  329M ufw-before-logging-input  all  --  any    any     anywhere             anywhere
+ 441K  329M ufw-before-input  all  --  any    any     anywhere             anywhere
+ 172K 8039K ufw-after-input  all  --  any    any     anywhere             anywhere
+ 164K 7663K ufw-after-logging-input  all  --  any    any     anywhere             anywhere
+ 164K 7663K ufw-reject-input  all  --  any    any     anywhere             anywhere
+ 164K 7663K ufw-track-input  all  --  any    any     anywhere             anywhere
+
+Chain FORWARD (policy DROP 0 packets, 0 bytes)
+ pkts bytes target     prot opt in     out     source               destination
+    0     0 ufw-before-logging-forward  all  --  any    any     anywhere             anywhere
+    0     0 ufw-before-forward  all  --  any    any     anywhere             anywhere
+    0     0 ufw-after-forward  all  --  any    any     anywhere             anywhere
+    0     0 ufw-after-logging-forward  all  --  any    any     anywhere             anywhere
+    0     0 ufw-reject-forward  all  --  any    any     anywhere             anywhere
+    0     0 ufw-track-forward  all  --  any    any     anywhere             anywhere
+
+Chain OUTPUT (policy ACCEPT 0 packets, 0 bytes)
+ pkts bytes target     prot opt in     out     source               destination
+ 365K   73M ufw-before-logging-output  all  --  any    any     anywhere             anywhere
+ 365K   73M ufw-before-output  all  --  any    any     anywhere             anywhere
+12696  868K ufw-after-output  all  --  any    any     anywhere             anywhere
+12696  868K ufw-after-logging-output  all  --  any    any     anywhere             anywhere
+12696  868K ufw-reject-output  all  --  any    any     anywhere             anywhere
+12696  868K ufw-track-output  all  --  any    any     anywhere             anywhere
+
+Chain f2b-sshd (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+ 164K   28M RETURN     all  --  any    any     anywhere             anywhere
+
+Chain ufw-after-forward (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-after-input (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+  127  9891 ufw-skip-to-policy-input  udp  --  any    any     anywhere             anywhere             udp dpt:netbios-ns
+    1    28 ufw-skip-to-policy-input  udp  --  any    any     anywhere             anywhere             udp dpt:netbios-dgm
+  272 12368 ufw-skip-to-policy-input  tcp  --  any    any     anywhere             anywhere             tcp dpt:netbios-ssn
+ 6928  354K ufw-skip-to-policy-input  tcp  --  any    any     anywhere             anywhere             tcp dpt:microsoft-ds
+    2    56 ufw-skip-to-policy-input  udp  --  any    any     anywhere             anywhere             udp dpt:bootps
+    1    28 ufw-skip-to-policy-input  udp  --  any    any     anywhere             anywhere             udp dpt:bootpc
+    0     0 ufw-skip-to-policy-input  all  --  any    any     anywhere             anywhere             ADDRTYPE match dst-type BROADCAST
+
+Chain ufw-after-logging-forward (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+    0     0 LOG        all  --  any    any     anywhere             anywhere             limit: avg 3/min burst 10 LOG level warning prefi
+
+Chain ufw-after-logging-input (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+80231 3729K LOG        all  --  any    any     anywhere             anywhere             limit: avg 3/min burst 10 LOG level warning prefi
+
+Chain ufw-after-logging-output (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-after-output (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-before-forward (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+    0     0 ACCEPT     all  --  any    any     anywhere             anywhere             ctstate RELATED,ESTABLISHED
+    0     0 ACCEPT     icmp --  any    any     anywhere             anywhere             icmp destination-unreachable
+    0     0 ACCEPT     icmp --  any    any     anywhere             anywhere             icmp time-exceeded
+    0     0 ACCEPT     icmp --  any    any     anywhere             anywhere             icmp parameter-problem
+    0     0 ACCEPT     icmp --  any    any     anywhere             anywhere             icmp echo-request
+    0     0 ufw-user-forward  all  --  any    any     anywhere             anywhere
+
+Chain ufw-before-input (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+ 9704  909K ACCEPT     all  --  lo     any     anywhere             anywhere
+ 196K  311M ACCEPT     all  --  any    any     anywhere             anywhere             ctstate RELATED,ESTABLISHED
+17210 6711K ufw-logging-deny  all  --  any    any     anywhere             anywhere             ctstate INVALID
+17210 6711K DROP       all  --  any    any     anywhere             anywhere             ctstate INVALID
+    0     0 ACCEPT     icmp --  any    any     anywhere             anywhere             icmp destination-unreachable
+    0     0 ACCEPT     icmp --  any    any     anywhere             anywhere             icmp time-exceeded
+    0     0 ACCEPT     icmp --  any    any     anywhere             anywhere             icmp parameter-problem
+ 6477  485K ACCEPT     icmp --  any    any     anywhere             anywhere             icmp echo-request
+    0     0 ACCEPT     udp  --  any    any     anywhere             anywhere             udp spt:bootps dpt:bootpc
+ 212K   10M ufw-not-local  all  --  any    any     anywhere             anywhere
+    0     0 ACCEPT     udp  --  any    any     anywhere             224.0.0.251          udp dpt:mdns
+    0     0 ACCEPT     udp  --  any    any     anywhere             239.255.255.250      udp dpt:1900
+ 212K   10M ufw-user-input  all  --  any    any     anywhere             anywhere
+
+Chain ufw-before-logging-forward (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-before-logging-input (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-before-logging-output (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-before-output (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+ 9704  909K ACCEPT     all  --  any    lo      anywhere             anywhere
+ 343K   71M ACCEPT     all  --  any    any     anywhere             anywhere             ctstate RELATED,ESTABLISHED
+12696  868K ufw-user-output  all  --  any    any     anywhere             anywhere
+
+Chain ufw-logging-allow (0 references)
+ pkts bytes target     prot opt in     out     source               destination
+    0     0 LOG        all  --  any    any     anywhere             anywhere             limit: avg 3/min burst 10 LOG level warning prefi
+
+Chain ufw-logging-deny (2 references)
+ pkts bytes target     prot opt in     out     source               destination
+16114 6090K RETURN     all  --  any    any     anywhere             anywhere             ctstate INVALID limit: avg 3/min burst 10
+ 1007  612K LOG        all  --  any    any     anywhere             anywhere             limit: avg 3/min burst 10 LOG level warning prefi
+
+Chain ufw-not-local (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+ 212K   10M RETURN     all  --  any    any     anywhere             anywhere             ADDRTYPE match dst-type LOCAL
+    0     0 RETURN     all  --  any    any     anywhere             anywhere             ADDRTYPE match dst-type MULTICAST
+    0     0 RETURN     all  --  any    any     anywhere             anywhere             ADDRTYPE match dst-type BROADCAST
+    0     0 ufw-logging-deny  all  --  any    any     anywhere             anywhere             limit: avg 3/min burst 10
+    0     0 DROP       all  --  any    any     anywhere             anywhere
+
+Chain ufw-reject-forward (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-reject-input (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-reject-output (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-skip-to-policy-forward (0 references)
+ pkts bytes target     prot opt in     out     source               destination
+    0     0 DROP       all  --  any    any     anywhere             anywhere
+
+Chain ufw-skip-to-policy-input (7 references)
+ pkts bytes target     prot opt in     out     source               destination
+ 7331  376K DROP       all  --  any    any     anywhere             anywhere
+
+Chain ufw-skip-to-policy-output (0 references)
+ pkts bytes target     prot opt in     out     source               destination
+    0     0 ACCEPT     all  --  any    any     anywhere             anywhere
+
+Chain ufw-track-forward (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-track-input (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-track-output (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+ 5649  309K ACCEPT     tcp  --  any    any     anywhere             anywhere             ctstate NEW
+ 5102  418K ACCEPT     udp  --  any    any     anywhere             anywhere             ctstate NEW
+
+Chain ufw-user-forward (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-user-input (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+22086 1263K            tcp  --  any    any     anywhere             anywhere             tcp dpt:ssh ctstate NEW recent: SET name: DEFAULT
+ 3139  187K ufw-user-limit  tcp  --  any    any     anywhere             anywhere             tcp dpt:ssh ctstate NEW recent: UPDATE secon255.255.255.255
+18947 1076K ufw-user-limit-accept  tcp  --  any    any     anywhere             anywhere             tcp dpt:ssh
+18172  869K ACCEPT     tcp  --  any    any     anywhere             anywhere             multiport dports http,https /* 'dapp_Apache%20Ful
+
+Chain ufw-user-limit (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+  303 17624 LOG        all  --  any    any     anywhere             anywhere             limit: avg 3/min burst 5 LOG level warning prefix
+ 3139  187K REJECT     all  --  any    any     anywhere             anywhere             reject-with icmp-port-unreachable
+
+Chain ufw-user-limit-accept (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+18947 1076K ACCEPT     all  --  any    any     anywhere             anywhere
+
+Chain ufw-user-logging-forward (0 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-user-logging-input (0 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-user-logging-output (0 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-user-output (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# ^C
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# iptables -L -v
+ pkts bytes target     prot opt in     out     source               destination
+ 179K   30M f2b-sshd   tcp  --  any    any     anywhere             anywhere             multiport dports ssh
+ 441K  329M ufw-before-logging-input  all  --  any    any     anywhere             anywhere
+ 441K  329M ufw-before-input  all  --  any    any     anywhere             anywhere
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# Chain INPUT (policy DROP 23 packets, 941 bytes)
+-bash: syntax error near unexpected token `('
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  pkts bytes target     prot opt in     out     source               destination
+ 172K 8039K ufw-after-input  all  --  any    any     anywhere             anywhere
+ 164K 7663K ufw-after-logging-input  all  --  any    any     anywhere             anywhere
+ 164K 7663K ufw-reject-input  all  --  any    any     anywhere             anywhere
+ 164K 7663K ufw-track-input  all  --  any    any     anywhere             anywhere
+
+Chain FORWARD (policy DROP 0 packets, 0 bytes)
+
+Command 'pkts' not found, did you mean:
+
+  command 'pts' from deb openafs-client (1.8.4~pre1-1ubuntu2.3)
+
+Try: apt install <deb name>
+
+ pkts bytes target     prot opt in     out     source               destination
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  179K   30M f2b-sshd   tcp  --  any    any     anywhere             anywhere             multiport dports ssh
+    0     0 ufw-before-logging-forward  all  --  any    any     anywhere             anywhere
+    0     0 ufw-before-forward  all  --  any    any     anywhere             anywhere
+    0     0 ufw-after-forward  all  --  any    any     anywhere             anywhere
+179K: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  441K  329M ufw-before-logging-input  all  --  any    any     anywhere             anywhere
+    0     0 ufw-after-logging-forward  all  --  any    any     anywhere             anywhere
+    0     0 ufw-reject-forward  all  --  any    any     anywhere             anywhere
+    0     0 ufw-track-forward  all  --  any    any     anywhere             anywhere
+
+Chain OUTPUT (policy ACCEPT 0 packets, 0 bytes)
+441K: command not found
+ pkts bytes target     prot opt in     out     source               destination
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  441K  329M ufw-before-input  all  --  any    any     anywhere             anywhere
+ 365K   73M ufw-before-logging-output  all  --  any    any     anywhere             anywhere
+ 365K   73M ufw-before-output  all  --  any    any     anywhere             anywhere
+12696  868K ufw-after-output  all  --  any    any     anywhere             anywhere
+441K: command not found
+12696  868K ufw-after-logging-output  all  --  any    any     anywhere             anywhere
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  172K 8039K ufw-after-input  all  --  any    any     anywhere             anywhere
+12696  868K ufw-reject-output  all  --  any    any     anywhere             anywhere
+12696  868K ufw-track-output  all  --  any    any     anywhere             anywhere
+
+Chain f2b-sshd (1 references)
+172K: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  164K 7663K ufw-after-logging-input  all  --  any    any     anywhere             anywhere
+ pkts bytes target     prot opt in     out     source               destination
+ 164K   28M RETURN     all  --  any    any     anywhere             anywhere
+
+Chain ufw-after-forward (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+164K: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  164K 7663K ufw-reject-input  all  --  any    any     anywhere             anywhere
+Chain ufw-after-input (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+  127  9891 ufw-skip-to-policy-input  udp  --  any    any     anywhere             anywhere             udp dpt:netbios-ns
+    1    28 ufw-skip-to-policy-input  udp  --  any    any     anywhere             anywhere             udp dpt:netbios-dgm
+  272 12368 ufw-skip-to-policy-input  tcp  --  any    any     anywhere             anywhere             tcp dpt:netbios-ssn
+164K: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  164K 7663K ufw-track-input  all  --  any    any     anywhere             anywhere
+ 6928  354K ufw-skip-to-policy-input  tcp  --  any    any     anywhere             anywhere             tcp dpt:microsoft-ds
+    2    56 ufw-skip-to-policy-input  udp  --  any    any     anywhere             anywhere             udp dpt:bootps
+    1    28 ufw-skip-to-policy-input  udp  --  any    any     anywhere             anywhere             udp dpt:bootpc
+    0     0 ufw-skip-to-policy-input  all  --  any    any     anywhere             anywhere             ADDRTYPE match dst-type BROADCAST
+164K: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# Chain FORWARD (policy DROP 0 packets, 0 bytes)
+-bash: syntax error near unexpected token `('
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  pkts bytes target     prot opt in     out     source               destination
+
+Chain ufw-after-logging-forward (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+    0     0 LOG        all  --  any    any     anywhere             anywhere             limit: avg 3/min burst 10 LOG level warning prefi
+
+Command 'pkts' not found, did you mean:
+
+  command 'pts' from deb openafs-client (1.8.4~pre1-1ubuntu2.3)
+
+Try: apt install <deb name>
+
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#     0     0 ufw-before-logging-forward  all  --  any    any     anywhere             anywhere
+
+Chain ufw-after-logging-input (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+80231 3729K LOG        all  --  any    any     anywhere             anywhere             limit: avg 3/min burst 10 LOG level warning prefi
+
+Chain ufw-after-logging-output (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+0: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#     0     0 ufw-before-forward  all  --  any    any     anywhere             anywhere
+
+Chain ufw-after-output (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+
+0: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#     0     0 ufw-after-forward  all  --  any    any     anywhere             anywhere
+0: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#     0     0 ufw-after-logging-forward  all  --  any    any     anywhere             anywhere
+0: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#     0     0 ufw-reject-forward  all  --  any    any     anywhere             anywhere
+0: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#     0     0 ufw-track-forward  all  --  any    any     anywhere             anywhere
+0: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# Chain OUTPUT (policy ACCEPT 0 packets, 0 bytes)
+-bash: syntax error near unexpected token `('
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  pkts bytes target     prot opt in     out     source               destination
+
+Command 'pkts' not found, did you mean:
+
+  command 'pts' from deb openafs-client (1.8.4~pre1-1ubuntu2.3)
+
+Try: apt install <deb name>
+
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  365K   73M ufw-before-logging-output  all  --  any    any     anywhere             anywhere
+365K: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  365K   73M ufw-before-output  all  --  any    any     anywhere             anywhere
+365K: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# 12696  868K ufw-after-output  all  --  any    any     anywhere             anywhere
+12696: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# 12696  868K ufw-after-logging-output  all  --  any    any     anywhere             anywhere
+12696: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# 12696  868K ufw-reject-output  all  --  any    any     anywhere             anywhere
+12696: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# 12696  868K ufw-track-output  all  --  any    any     anywhere             anywhere
+12696: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# Chain f2b-sshd (1 references)
+-bash: syntax error near unexpected token `('
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  pkts bytes target     prot opt in     out     source               destination
+
+Command 'pkts' not found, did you mean:
+
+  command 'pts' from deb openafs-client (1.8.4~pre1-1ubuntu2.3)
+
+Try: apt install <deb name>
+
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  164K   28M RETURN     all  --  any    any     anywhere             anywhere
+164K: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# Chain ufw-after-forward (1 references)
+-bash: syntax error near unexpected token `('
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  pkts bytes target     prot opt in     out     source               destination
+
+Command 'pkts' not found, did you mean:
+
+  command 'pts' from deb openafs-client (1.8.4~pre1-1ubuntu2.3)
+
+Try: apt install <deb name>
+
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# Chain ufw-after-input (1 references)
+-bash: syntax error near unexpected token `('
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  pkts bytes target     prot opt in     out     source               destination
+
+Command 'pkts' not found, did you mean:
+
+  command 'pts' from deb openafs-client (1.8.4~pre1-1ubuntu2.3)
+
+Try: apt install <deb name>
+
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#   127  9891 ufw-skip-to-policy-input  udp  --  any    any     anywhere             anywhere             udp dpt:netbios-ns
+127: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#     1    28 ufw-skip-to-policy-input  udp  --  any    any     anywhere             anywhere             udp dpt:netbios-dgm
+1: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#   272 12368 ufw-skip-to-policy-input  tcp  --  any    any     anywhere             anywhere             tcp dpt:netbios-ssn
+272: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  6928  354K ufw-skip-to-policy-input  tcp  --  any    any     anywhere             anywhere             tcp dpt:microsoft-ds
+6928: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#     2    56 ufw-skip-to-policy-input  udp  --  any    any     anywhere             anywhere             udp dpt:bootps
+2: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#     1    28 ufw-skip-to-policy-input  udp  --  any    any     anywhere             anywhere             udp dpt:bootpc
+1: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#     0     0 ufw-skip-to-policy-input  all  --  any    any     anywhere             anywhere             ADDRTYPE match dst-type BROADCAST
+0: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# Chain ufw-after-logging-forward (1 references)
+-bash: syntax error near unexpected token `('
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  pkts bytes target     prot opt in     out     source               destination
+
+Command 'pkts' not found, did you mean:
+
+  command 'pts' from deb openafs-client (1.8.4~pre1-1ubuntu2.3)
+
+Try: apt install <deb name>
+
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#     0     0 LOG        all  --  any    any     anywhere             anywhere             limit: avg 3/min burst 10 LOG level warning prefi
+0: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# Chain ufw-after-logging-input (1 references)
+-bash: syntax error near unexpected token `('
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  pkts bytes target     prot opt in     out     source               destination
+
+Command 'pkts' not found, did you mean:
+
+  command 'pts' from deb openafs-client (1.8.4~pre1-1ubuntu2.3)
+
+Try: apt install <deb name>
+
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# 80231 3729K LOG        all  --  any    any     anywhere             anywhere             limit: avg 3/min burst 10 LOG level warning prefi
+80231: command not found
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# Chain ufw-after-logging-output (1 references)
+-bash: syntax error near unexpected token `('
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  pkts bytes target     prot opt in     out     source               destination
+
+Command 'pkts' not found, did you mean:
+
+  command 'pts' from deb openafs-client (1.8.4~pre1-1ubuntu2.3)
+
+Try: apt install <deb name>
+
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~# Chain ufw-after-output (1 references)
+-bash: syntax error near unexpected token `('
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#  pkts bytes target     prot opt in     out     source               destination
+
+Command 'pkts' not found, did you mean:
+
+  command 'pts' from deb openafs-client (1.8.4~pre1-1ubuntu2.3)
+
+Try: apt install <deb name>
+
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#
+root@lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01:~#
+
+
