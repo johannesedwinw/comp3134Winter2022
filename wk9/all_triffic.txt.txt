@@ -1,0 +1,12 @@
+lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01  => 162.243.190.66                              1.52Kb  2.55Kb  4.31Kb
+                                            <=                                              208b    426b    643b
+lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01  => 43.155.87.13                                 896b   1.80Kb   977b
+                                            <=                                              672b    947b    510b
+lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01  => 67.207.67.3                                    0b    367b    810b
+                                            <=                                                0b    790b   1.49Kb
+lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01  => 162.243.188.66                                 0b     42b     28b
+                                            <=                                                0b     42b     28b
+lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01  => 178-73-215-171-static.glesys.net               0b      0b   2.02Kb
+                                            <=                                                0b      0b    141b
+lamponubuntu2004-s-1vcpu-1gb-intel-tor1-01  => 164.90.194.36                                  0b      0b     59b
+                                            <=                                                0b      0b     30b
